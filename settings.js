@@ -66,10 +66,7 @@ global.packname =  '𝗤𝗨𝗘𝗘𝗡 𝗠𝗔𝗫 𝗕𝗢𝗧'
 //👇 Sticker Author Name
 global.author =  '𝙰𝚄𝚂𝚃𝙸𝙽 𝙼𝙰𝚇' 
 //👇 Inbox Block Massage 
-global.INBOX_BLOCK_MSG = '*Do not call or inbox BOT*  
-Your number will be blocked in 5 seconds....  
-
-If blocked, Call the owner to unblock you.👇 
+global.INBOX_BLOCK_MSG = '*Do not call or inbox BOT*\n\nYour number will be blocked in 5 seconds....\n\nIf blocked,Call the owner to unblock you.👇 
 https://wa.me/+265997133051'
 //👇 Owner React Imoji
 global.OWNER_REACT =  '💻'
