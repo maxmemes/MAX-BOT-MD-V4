@@ -70,8 +70,7 @@ global.INBOX_BLOCK_MSG = '*Don't call or inbox BOT*
 Your number will be blocked in 5 seconds....  
 
 If blocked, Call the owner to unblock you.👇 
-https://wa.me/+265997133051  
-'
+https://wa.me/+265997133051'
 //👇 Owner React Imoji
 global.OWNER_REACT =  '💻'
 //👇 Song Download Massage 
