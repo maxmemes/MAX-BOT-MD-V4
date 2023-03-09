@@ -56,7 +56,7 @@ global.BOT_OFFLINE = false
 // You Bots Owner Number 
 global.owner = ['265997133051'] 
 //👇 Your Caption ( Image Video )
-global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝚀𝚄𝙴𝙴𝙽 𝙼𝙰𝚇 𝙱𝙾𝚃 𝟸𝟶𝟸𝟹'
+global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝙼𝙰𝚇 𝙱𝙾𝚃 𝟸𝟶𝟸𝟹'
 //👇 Your Bot Name
 global.botnma =  '𝗤𝗨𝗘𝗘𝗡 𝗠𝗔𝗫 𝗕𝗢𝗧' 
 //👇 Your name
